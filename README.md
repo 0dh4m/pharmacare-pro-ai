@@ -1,4 +1,4 @@
-# 💊 PharmaCare PRO — Enterprise Pharmacy Management & AI Vision OCR
+# 💊 PharmaCare PRO — Interactive Pharmacy Management & AI Vision OCR
 
 <div align="center">
 
@@ -9,7 +9,9 @@
 
 </div>
 
-**PharmaCare PRO** is an intelligent pharmacy management suite engineered for modern healthcare dispensaries. It combines multimodal optical prescription recognition (Gemini Vision OCR), real-time drug-drug interaction warning checks, synthesized audio barcode scanning, and multi-currency Moroccan Dirham (MAD) inventory telemetry.
+**PharmaCare PRO** is an interactive pharmacy management demo built around a modern dispensary workflow. It combines multimodal optical prescription recognition (Gemini Vision OCR), drug-drug interaction warning checks, synthesized audio barcode scanning, and multi-currency Moroccan Dirham (MAD) inventory telemetry.
+
+> **Scope:** this repository contains the browser-side interactive demo (single-page app with LocalStorage persistence). The production PHP/MySQL backend is not included.
 
 ---
 
@@ -31,10 +33,10 @@ Experience the live interactive application directly in the browser:
 
 ## 🛠️ Tech Stack
 
-- **Frontend & UI**: HTML5, Modern Vanilla JavaScript (ES6+), Tailwind CSS / Bootstrap 5, Chart.js
+- **Frontend & UI**: HTML5, Modern Vanilla JavaScript (ES6+), Tailwind CSS, Bootstrap Icons, Chart.js
 - **Audio Subsystem**: Web Audio API (Synthesized POS barcode scanner)
 - **AI Integration**: Google Gemini 1.5 Multimodal Optical Character Recognition (OCR)
-- **State Management**: LocalStorage persistent cache with atomic transaction simulation
+- **State Management**: LocalStorage persistent cache with an in-browser transaction simulation
 
 ---
 
@@ -44,3 +46,9 @@ Experience the live interactive application directly in the browser:
 - 📍 Rabat / Salé, Morocco
 - ✉️ `0dh4mm@gmail.com`
 - 🌐 [0dh4m.github.io](https://0dh4m.github.io/)
+
+---
+
+## 📄 License
+
+MIT — see [LICENSE](LICENSE).
