@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Author](https://img.shields.io/badge/Author-0dh4m-2563eb?style=flat-square&logo=github&logoColor=white)](https://github.com/0dh4m)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-PharmaCare%20PRO-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://0dh4m.github.io/portfolio/demos/pharmacare/index.html)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-PharmaCare%20PRO-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://0dh4m.github.io/demos/pharmacare/index.html)
 [![AI Engine](https://img.shields.io/badge/AI%20Vision-Gemini%201.5%20OCR-38bdf8?style=flat-square)](https://github.com/0dh4m/pharmacare-pro-ai)
 [![License](https://img.shields.io/badge/License-MIT-slate?style=flat-square)](LICENSE)
 
@@ -27,7 +27,7 @@
 ## 🚀 Live Demo
 
 Experience the live interactive application directly in the browser:
-👉 **[Launch PharmaCare PRO Live Demo](https://0dh4m.github.io/portfolio/demos/pharmacare/index.html)**
+👉 **[Launch PharmaCare PRO Live Demo](https://0dh4m.github.io/demos/pharmacare/index.html)**
 
 ---
 
